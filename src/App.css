@@ -5,30 +5,18 @@
     grid-template: 60px 1fr / 2fr 10fr;
     color: aliceblue;
 }
-
-
-.header {
+.wrapper-header {
     background-color: #996AD6;
     grid-column: 1/3;
     grid-row: 1/2;
 }
-
-.header img {
-    width: 60px;
-    height: 60px;
-}
-
-.nav {
+.wrapper-navBar {
     background-color: #4F2982;
     grid-column: 1/2;
     grid-row: 2/3;
 }
-
-.content {
+.wrapper-content {
     background-color: #530FAD;
     grid-column: 2/3;
     grid-row: 2/3;
-}
-.content img {
-    width: 100%;
 }

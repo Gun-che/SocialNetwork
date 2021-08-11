@@ -1,0 +1,8 @@
+
+.navBar a {
+    color: aliceblue;
+    text-decoration: none;
+}
+.navBar .active {
+    color: green;
+}

@@ -1,0 +1,12 @@
+.dialogs {
+    display: grid;
+    grid-template: 1fr / 2fr 10fr;
+}
+.dialog a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+.message {
+
+}
