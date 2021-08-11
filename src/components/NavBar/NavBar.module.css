@@ -1,8 +1,21 @@
+.navBar {
+    padding: 30px;
+}
+
+.navBar div {
+    margin-bottom: 10px;
+}
 
 .navBar a {
+    font-size: 18px;
     color: aliceblue;
     text-decoration: none;
 }
+
+.navBar span {
+    margin-right: 10px;
+}
+
 .navBar .active {
     color: green;
 }

@@ -4,7 +4,7 @@ import style from  './Header.module.css'
 const Header = () => {
     return (
         <header className={style.header}>
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/SVG-Logo_gray.svg/1200px-SVG-Logo_gray.svg.png'/>
+            <img src='https://pbs.twimg.com/profile_images/488963432016658432/yjylk3nE.png'/>
         </header>
     )
 }
